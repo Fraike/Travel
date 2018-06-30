@@ -19,3 +19,14 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+<!-- #安装fastclick -->
+npm install fastclick --save
+
+<!-- 安装stylus -->
+npm install stylus --save
+npm install stylus-loader --save
+
+<!-- 添加iconfont -->
+
+<!-- 安装vue-awesome-swiper -->
