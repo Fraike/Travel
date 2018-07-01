@@ -30,3 +30,6 @@ npm install stylus-loader --save
 <!-- 添加iconfont -->
 
 <!-- 安装vue-awesome-swiper -->
+
+<!-- 安装 axios -->
+npm install axios --save
