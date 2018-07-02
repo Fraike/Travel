@@ -33,3 +33,5 @@ npm install stylus-loader --save
 
 <!-- 安装 axios -->
 npm install axios --save
+<!-- 安装better-scroll -->
+npm install better-scroll --save
