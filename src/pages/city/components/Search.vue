@@ -7,8 +7,7 @@
 <script>
 
 export default {
-    name: 'CitySearch',
-    
+    name: 'CitySearch'
 }
 </script>
 
@@ -28,7 +27,6 @@ export default {
             border-radius: .06rem
             color: #666
 
-    
 
 
 </style>
